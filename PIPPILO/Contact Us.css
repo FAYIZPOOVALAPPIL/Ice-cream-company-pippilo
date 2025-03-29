@@ -1,0 +1,25 @@
+.body{
+    background-color:rgb(61, 93, 93);
+}
+.middiv{
+    position: relative;
+}
+.crd-text{
+    font-family: sans-serif;
+    text-shadow:3px 3px 6px black;
+}
+.header{
+    height: 200px;
+    
+ }
+ .img-logo{
+    width: 310px;
+    height: 200px;
+}
+li:hover{
+    background-color: rgb(211, 207, 207);
+}
+.navbar-brand:hover{    
+    background-color: rgb(211, 207, 207);
+
+}

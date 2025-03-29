@@ -1,0 +1,38 @@
+.body{
+    background-color: rgb(1, 1, 65);
+
+}
+.header{
+   height: 200px;
+   
+}
+.img-logo{
+    width: 310px;
+    height: 200px;
+}
+.img-header{
+    position: absolute;
+    z-index: -1;
+    height: 700px;
+}
+li:hover{
+    background-color: rgb(211, 207, 207);
+}
+.navbar-brand:hover{    
+    background-color: rgb(211, 207, 207);
+
+}
+p{
+    text-justify: unset;
+}
+
+.midhead{
+    height: 150px;
+    color: rgb(1, 1, 65);
+} 
+footer{
+    background-color: rgb(122, 158, 158);
+}
+img{
+    border-radius: 10px;
+}

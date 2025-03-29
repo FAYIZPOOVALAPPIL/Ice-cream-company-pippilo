@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(1, 1, 65);
+
+}
+.header{
+    height: 200px;
+    
+ }
+ .img-logo{
+    width: 310px;
+    height: 200px;
+}
+li:hover{
+    background-color: rgb(211, 207, 207);
+}
+.navbar-brand:hover{    
+    background-color: rgb(211, 207, 207);
+
+}
+.strawberry{
+   
+    border-radius: 10px;
+}
+hr{
+    color: white;
+    
+}
