@@ -28,3 +28,8 @@ hr{
 .card-bg{
     background-color: rgb(24, 126, 92);
 }
+.card:hover {
+    transform: translateY(-10px);
+    transition: transform 0.3s ease;
+  }
+  
